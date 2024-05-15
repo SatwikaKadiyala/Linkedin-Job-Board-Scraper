@@ -1,1 +1,2 @@
-# Linkedin-Job-Board-Scraper
+#LinkedinJobNavigator
+
